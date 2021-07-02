@@ -1,0 +1,2 @@
+I am in friends.txt file.
+This is demonsration file.
