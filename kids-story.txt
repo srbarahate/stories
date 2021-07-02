@@ -1,0 +1,2 @@
+This text file is created to demonstarte the new file in github.
+Now the file kids-story.txt is created.
